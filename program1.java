@@ -9,7 +9,3 @@ public class program1 {
         
     }
 }
-
-
-
-
