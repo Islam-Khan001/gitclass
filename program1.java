@@ -6,6 +6,8 @@ public class program1 {
         System.out.println("this is my first commit");
         System.out.println("this is my second commit");
         System.out.println("this commit will only got to the branch2");
+        System.out.println("This commit is of cherry picking branch");
+
         
     }
 }
